@@ -7,6 +7,10 @@ body, html{
    	overflow-x: hidden;
 }
 
+.section p{
+	text-align: justify;
+}
+
 .main{
 	margin-top: 58px;
 }
@@ -50,7 +54,7 @@ p.info{
 }
 
 p.infoTexto{
-	padding-left: 50px;
+	padding: 0 30px;
 	color: white;
 	font-size: 16pt;
 	margin-bottom: 30px;
@@ -80,6 +84,15 @@ div h1{
 		height: 45px;
 		width: 100%;
 	}
+
+.imagenAU img{
+	margin: 50px 0;
+}
+
+
+.enlaces img{
+	padding: 30px;
+}
 
 	.personView{
 	    padding: 10px;
